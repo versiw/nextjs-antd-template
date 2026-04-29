@@ -1,0 +1,15 @@
+{
+  "$schema": "./node_modules/oxfmt/configuration_schema.json",
+  "ignorePatterns": [
+    ".agents/**",
+    ".next/**",
+    "node_modules/**",
+    "build/**",
+    "dist/**",
+    "out/**",
+    "package-lock.json"
+  ],
+  "semi": false,
+  "printWidth": 80,
+  "singleQuote": true
+}
