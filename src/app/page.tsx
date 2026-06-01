@@ -3,7 +3,7 @@
 import { Button, Space, Typography } from 'antd'
 import Link from 'next/link'
 
-const { Title, Text } = Typography
+const { Title } = Typography
 
 export default function MarketingPage() {
   return (

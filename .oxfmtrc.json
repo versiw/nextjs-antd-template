@@ -7,7 +7,9 @@
     "build/**",
     "dist/**",
     "out/**",
-    "package-lock.json"
+    "package-lock.json",
+    "src/components/ui/**",
+    "generated/prisma/**"
   ],
   "semi": false,
   "printWidth": 80,
